@@ -1,7 +1,5 @@
 # ML Model with Tensorflow and Iris Dataset from scikit-learn
 
-
-
 ## Description About Project
 
 This experiment will build an ML model to determine the types of iris (Setosa, Versicolour, and Virginica) based on sepal length, sepal width, petal length and petal width. The model is a linear regression model.
@@ -35,7 +33,7 @@ For using this project you must clone this machine learning project with followi
 
 ### How to Build Models
 
-Complete steps on how to build the model are available on [ml_tf_model_iris_dataset_sklearn.ipynb]https://github.com/fawwazmts/ml-tf-iris-dataset/blob/main/ml_model_iris_tf_dataset_sklearn.ipynb). A summary of the steps is as follows.
+Complete steps on how to build the model are available on [ml_tf_model_iris_dataset_sklearn.ipynb](https://github.com/fawwazmts/ml-tf-iris-dataset/blob/main/ml_model_iris_tf_dataset_sklearn.ipynb). A summary of the steps is as follows.
 
 1. Get Iris Dataset from [scikit-learn](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html) using `load_iris()`
 2. Split data to train, validation, and test dataset.
