@@ -1,4 +1,4 @@
-# ML Model with Iris Dataset from scikit-learn
+# ML Model with Tensorflow and Iris Dataset from scikit-learn
 
 
 
