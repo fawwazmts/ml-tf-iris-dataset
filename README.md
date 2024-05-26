@@ -8,7 +8,7 @@ This Jupyter demonstrates how to create a machine learning model using Tensorflo
 
 ### Libraries
 
-Model Machine Learning for Aksacarma built with Jupyter Notebook on Google Colab. This Jupyter Notebook also can run in local. For development, the following are libraries which needs to be installed.
+Model Machine Learning built with Jupyter Notebook on Google Colab. This Jupyter Notebook also can run in local. For development, the following are libraries which needs to be installed.
 
 ```
 numpy==1.25.2
