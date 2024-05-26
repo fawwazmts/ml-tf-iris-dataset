@@ -2,7 +2,7 @@
 
 ## Description About Project
 
-This Jupyter demonstrates how to create a machine learning model using Tensorflow. The model built in this experiment is a linear regression model. This ml model can determine the type of iris (Setosa, Versicolour, and Virginica) based on sepal length, sepal width, petal length and petal width.
+This Jupyter demonstrates how to create a machine learning model using Tensorflow. The model built in this experiment is a linear regression model. This ML model can determine the type of iris (Setosa, Versicolour, and Virginica) based on sepal length, sepal width, petal length and petal width.
 
 ## Infrastructure for Built Model
 
